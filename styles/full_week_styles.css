@@ -1,0 +1,51 @@
+head{
+    margin: 46px;
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    color: #3e4632;
+    font-family: 'Oswald',sans-serif;
+}
+
+a{
+    background-color: #A1B57D;
+    color: white;
+    border-radius: 9px;
+    padding: 4px;
+    font-size:20px;
+    border: 1px solid black;
+    display: inline-block;
+}
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+#description{
+    margin-bottom: 36px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 36px auto 0 auto;
+}
+
+li{
+    list-style: none;
+    background-color: #D3ECA7;
+    width: 500px; 
+    margin: 30px auto 30px auto;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 6px 5px 9px;
+} 
+
+.daily-goals{
+    margin: 12px;
+} 
+
